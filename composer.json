@@ -1,0 +1,11 @@
+{
+    "require": {
+        "xentixar/esewa-sdk": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xentixar\\XenPhp\\" : "config/"
+        }
+    }
+}
+
